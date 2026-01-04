@@ -60,14 +60,6 @@
       ],
       "drc_exclusions": [
         [
-          "starved_thermal|146142960|65937038|da6decc9-311d-4b79-946b-e273b2a6e1ad|68b9b34c-cb89-499d-9733-cd50ebc771d9|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|146152960|89687038|da6decc9-311d-4b79-946b-e273b2a6e1ad|69dc3c42-0c46-415a-8af2-dcca1bac8d8c|F.Cu",
-          ""
-        ],
-        [
           "text_on_edge_cuts|81694700|52750000|9cc47f2f-a6c7-4299-b570-68dab20ed025|00000000-0000-0000-0000-000000000000",
           ""
         ],
